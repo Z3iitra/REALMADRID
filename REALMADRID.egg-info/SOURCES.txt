@@ -1,0 +1,8 @@
+setup.py
+REALMADRID/__init__.py
+REALMADRID/info.py
+REALMADRID.egg-info/PKG-INFO
+REALMADRID.egg-info/SOURCES.txt
+REALMADRID.egg-info/dependency_links.txt
+REALMADRID.egg-info/not-zip-safe
+REALMADRID.egg-info/top_level.txt
